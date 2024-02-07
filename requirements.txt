@@ -44,7 +44,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 filechunkio==1.8
 fitter==1.0.8
-Flask==0.12.2
+Flask==2.2.5
 Flask-Cors==3.0.2
 future==0.16.0
 gevent==1.2.1
