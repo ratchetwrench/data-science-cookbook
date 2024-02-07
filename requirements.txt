@@ -71,7 +71,7 @@ jupyter==1.0.0
 jupyter-client==5.0.1
 jupyter-console==5.1.0
 jupyter-core==4.3.0
-jupyterlab==0.26.3
+jupyterlab==3.6.7
 jupyterlab-launcher==0.3.1
 Keras==2.0.6
 lazy-object-proxy==1.2.2
